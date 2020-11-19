@@ -49,7 +49,7 @@
     "uniqCompNum": 47,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/pic-1-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/pic-1-118x113-1.png",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
